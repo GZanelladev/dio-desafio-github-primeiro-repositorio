@@ -1,0 +1,19 @@
+Esta é um lista de comandos básicos para o GIT
+
+git init: Inicializa um repositório Git em um diretório local.
+
+git clone [URL]: Clona um repositório Git remoto para um diretório local.
+
+git add [arquivo]: Adiciona um arquivo (ou arquivos) ao índice do Git, preparando-o para o commit.
+
+git commit -m "[mensagem]": Salva as alterações adicionadas ao índice do Git, com uma mensagem descritiva das alterações realizadas.
+
+git status: Exibe o estado atual do repositório, mostrando quais arquivos foram modificados, adicionados ou removidos.
+
+git push: Envia as alterações feitas no repositório local para o repositório remoto.
+
+git pull: Obtém as alterações do repositório remoto e atualiza o repositório local.
+
+git branch: Cria uma nova ramificação (branch) para o repositório.
+
+git checkout [branch]: Alterna entre as diferentes ramificações do repositório.

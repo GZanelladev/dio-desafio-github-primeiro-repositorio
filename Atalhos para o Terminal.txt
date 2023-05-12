@@ -1,0 +1,29 @@
+Ctrl + L ou cls: Limpa a tela do terminal.
+
+Tab: Autocompleta o nome de arquivos, pastas e comandos.
+
+Seta para cima: Exibe o histórico de comandos executados anteriormente no terminal.
+
+Ctrl + C: Cancela a execução de um comando em andamento.
+
+Ctrl + D: Encerra a sessão atual do terminal.
+
+Ctrl + Shift + V: Cola o conteúdo da área de transferência no terminal.
+
+Ctrl + Shift + C: Copia o texto selecionado no terminal para a área de transferência.
+
+Ctrl + A: Seleciona todo o texto no terminal.
+
+Ctrl + E: Move o cursor para o final da linha atual.
+
+Ctrl + K: Remove todo o texto da linha após o cursor.
+
+Ctrl + U: Remove todo o texto da linha antes do cursor.
+
+Ctrl + W: Remove a palavra anterior ao cursor.
+
+Shift + Setas para cima/baixo: Permite rolar através do histórico de comandos.
+
+Ctrl + R: Permite pesquisar o histórico de comandos para encontrar um comando anterior.
+
+Ctrl + Z: Coloca o processo atual em segundo plano.
